@@ -4,4 +4,6 @@
 
 console.log(3+3);
 
+ //readability should be high
+ 
 console.log(4+4);
